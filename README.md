@@ -47,6 +47,10 @@ Wemos D1 (ESP8266) + senseBox Shield
 Arduino Mega + senseBox Shield
 - logging to SD card, manual upload to opensensemap.org
 
+### `./wifi-gps`
+Arduino Mega + Dragino LoRa & GPS Shield + senseBox Shield (SD card) + BlueFly WiFi Shield
+- transmitting data via WiFi (e.g. mobile hotspot) to opensensemap.org
+
 ## Future Work
 - Evaluation of SDS011 in a mobile environment: Influence of wind, sunlight,
   vibrations, differing orientations
