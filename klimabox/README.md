@@ -5,7 +5,7 @@ This is a GPS tracked senseBox measuring particulate matter and CO2 concentratio
 It's based on
 - Arduino Mega (Arduino Uno should work to, just use SoftwareSerial for the SDS011)
 - Dragino LoRa- & GPS-Shield
-- SD-card reader (I used the one on the senseBox-Shield. Any other one should work as well, change the `SD_PIN` in `config.h`)
+- SD-card reader (I used the one on the senseBox-Shield. Any other one should work as well, change the `SD_PIN`)
 - Novafit SDS011 particulate matter sensor
 - HDC1008 temp- & humidity sensor
 - Adafruit Powerboost 1000C incl. 6600mAh Battery
