@@ -4,7 +4,7 @@ This is a GPS tracked TTN coverage mapper,
 transmitting its data via LoRaWAN through [TheThingsNetwork] to [TTN Mapper].
 
 [TheThingsNetwork]: thethingsnetwork.org
-[openSenseMap]: http://ttnmapper.org/
+[TTN Mapper]: http://ttnmapper.org/
 
 It's based on
 - Arduino UNO
